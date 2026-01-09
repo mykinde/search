@@ -1,0 +1,4 @@
+users.json
+/public/
+/vendor
+.env

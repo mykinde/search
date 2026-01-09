@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "G3 Movies",
+        "url": "https:\/\/movies.web.i.ng",
+        "description": "The most popular search movies information."
+    },
+    {
+        "id": 2,
+        "title": "Google Search Engine",
+        "url": "https:\/\/www.google.com",
+        "description": "The most popular search engine in the world, providing access to a vast amount of information."
+    },
+    {
+        "id": 3,
+        "title": "MDN Web Docs",
+        "url": "https:\/\/developer.mozilla.org\/en-US\/",
+        "description": "Comprehensive documentation for web technologies, including HTML, CSS, JavaScript, and Web APIs."
+    },
+    {
+        "id": 4,
+        "title": "Wikipedia - The Free Encyclopedia",
+        "url": "https:\/\/www.wikipedia.org\/",
+        "description": "A free, web-based, collaborative, multilingual encyclopedia."
+    },
+    {
+        "id": 5,
+        "title": "GitHub - Where the world builds software",
+        "url": "https:\/\/github.com\/",
+        "description": "A platform for version control and collaboration, hosting millions of open source projects."
+    },
+    {
+        "id": 6,
+        "title": "Stack Overflow",
+        "url": "https:\/\/stackoverflow.com\/",
+        "description": "A question and answer site for professional and enthusiast programmers."
+    },
+    {
+        "id": 7,
+        "title": "W3Schools Online Web Tutorials",
+        "url": "https:\/\/www.w3schools.com\/",
+        "description": "Tutorials and references for web development languages like HTML, CSS, JavaScript, PHP, SQL, and more."
+    },
+    {
+        "id": 8,
+        "title": "React - A JavaScript library for building user interfaces",
+        "url": "https:\/\/react.dev\/",
+        "description": "The official website for React, a declarative, component-based JavaScript library."
+    },
+    {
+        "id": 9,
+        "title": "Tailwind CSS - A utility-first CSS framework",
+        "url": "https:\/\/tailwindcss.com\/",
+        "description": "A highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs."
+    },
+    {
+        "id": 10,
+        "title": "PHP.net - The PHP Hypertext Preprocessor",
+        "url": "https:\/\/www.php.net\/",
+        "description": "The official home of the PHP scripting language, with documentation, downloads, and news."
+    },
+    {
+        "id": 11,
+        "title": "MySQL - The world's most popular open source database",
+        "url": "https:\/\/www.mysql.com\/",
+        "description": "Information about MySQL, a widely used open-source relational database management system."
+    },
+    {
+        "id": 12,
+        "title": "Virtual Assistance",
+        "url": "https:\/\/va.see.i.ng\/",
+        "description": "AI Chat Assistance"
+    }
+]
